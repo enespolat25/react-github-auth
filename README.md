@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Uygulamalarında Github ile Üye Girişi Yapımı
+
+
+[Konuyu Anlatan Video](https://lnkd.in/dsP4HN2X)
+
+[Konuyu Anlatan Makale](https://lnkd.in/d57Ju7j3)
+
+![](./github.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
